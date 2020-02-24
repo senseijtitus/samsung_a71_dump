@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<VERSION value="20191125"/>
+<LIST>
+  <PACKAGE name="com.google.android.gsf.login">
+    <DIGEST value="ALL"/>
+  </PACKAGE>
+</LIST>
